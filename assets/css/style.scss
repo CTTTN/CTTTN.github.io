@@ -1,0 +1,32 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+a.green {
+  color: #159957;}
+
+.main-content h6 {
+  /*Redefined as a specific h3 for the members page*/
+  font-size: 1.1em;
+  margin-top: 2rem;
+  margin-bottom: -1rem;}
+
+button.event {
+  background-color: #FFFFFF;
+  width: 15rem;
+  height: 10rem;
+  padding: 0.5rem 0.5rem;
+  border: 2px solid #159957;
+  border-radius: 5%;
+  color: #606c71;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: flex-start;
+  flex-direction: column;
+  margin-right: 1.5em;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;}
+
+button.event:hover {
+  box-shadow: 5px 5px 7px rgba(0, 0, 0, 0.2);}
