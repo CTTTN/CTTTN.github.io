@@ -6,9 +6,9 @@ To get in touch with the network, you can contact individual <a href="members.ht
 
 <div id="map" style="height:400px;"></div>
 <script>
-  var map = L.map('map').setView([47.1599,9.5540], 4);
+  var map = L.map('map').setView([47.1599,9.5540], 3);
   L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    maxZoom: 19,
+    maxZoom: 6,
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
   }).addTo(map);
   L.Icon.Default.mergeOptions({
@@ -22,4 +22,6 @@ To get in touch with the network, you can contact individual <a href="members.ht
   var marker = L.marker([50.8552,4.3755]).addTo(map);
   var marker = L.marker([53.2218,6.5648]).addTo(map);
   var marker = L.marker([35.8984,14.5131]).addTo(map);
+  var marker = L.marker([45.8427,15.9644]).addTo(map);
+  var marker = L.marker([60.5360,22.2622]).addTo(map);
 </script>
