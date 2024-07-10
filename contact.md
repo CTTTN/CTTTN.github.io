@@ -19,9 +19,12 @@ To get in touch with the network, you can contact individual <a href="members.ht
   var marker = L.marker([53.3547,-6.2510]).addTo(map);
   var marker = L.marker([41.3925,2.1404]).addTo(map);
   var marker = L.marker([51.0845,3.6289]).addTo(map);
+  var marker = L.marker([51.2606,4.3578]).addTo(map);
   var marker = L.marker([50.8552,4.3755]).addTo(map);
   var marker = L.marker([53.2218,6.5648]).addTo(map);
   var marker = L.marker([35.8984,14.5131]).addTo(map);
   var marker = L.marker([45.8427,15.9644]).addTo(map);
   var marker = L.marker([60.5360,22.2622]).addTo(map);
+  var marker = L.marker([41.0066,28.9759]).addTo(map);
+  var marker = L.marker([41.0352,29.0490]).addTo(map);
 </script>
