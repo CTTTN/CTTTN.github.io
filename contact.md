@@ -12,12 +12,14 @@ To get in touch with the network, you can contact individual <a href="members.ht
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
   }).addTo(map);
   L.Icon.Default.mergeOptions({
-      iconSize: [20, 20],
-      iconAnchor: [10, 20]
+    iconSize: [16, 20],
+    iconAnchor: [8, 20],
+    shadowSize: [0,0]
   });
-  var marker = L.marker([50.8552,4.3755]).addTo(map);
-  var marker = L.marker([51.0845,3.6289]).addTo(map);
-  var marker = L.marker([41.3925,2.1404]).addTo(map);
-  var marker = L.marker([53.2218,6.5648]).addTo(map);
   var marker = L.marker([53.3547,-6.2510]).addTo(map);
+  var marker = L.marker([41.3925,2.1404]).addTo(map);
+  var marker = L.marker([51.0845,3.6289]).addTo(map);
+  var marker = L.marker([50.8552,4.3755]).addTo(map);
+  var marker = L.marker([53.2218,6.5648]).addTo(map);
+  var marker = L.marker([35.8984,14.5131]).addTo(map);
 </script>
