@@ -11,9 +11,10 @@ To get in touch with the network, you can contact individual <a href="members.ht
     maxZoom: 19,
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
   }).addTo(map);
-  var icon = L.icon({
+  var pin = L.icon({
     iconSize: [20,50],
   });
-  var marker = L.marker([50.8552,4.3755]).addTo(map);
-  var marker = L.marker([51.0845,3.6289]).addTo(map);
+  var marker = L.marker([50.8552,4.3755],{icon:pin}).addTo(map);
+  var marker = L.marker([51.0845,3.6289],{icon:pin}).addTo(map);
+  var marker = L.marker([41.3925,2.1404],{icon:pin}).addTo(map);
 </script>
