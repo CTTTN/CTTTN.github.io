@@ -27,7 +27,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque elementum imper
     INCREC Podcast
   </span><br/>&nbsp;<br/>
   <span style="font-size:.8em;">
-    Series of podcasts by Ana Guerberof, with a focus on creativity, translation and technology.
+    Series of podcasts by Ana Guerberof focusing on creativity, translation and technology.
   </span><br/>&nbsp;<br/>
   <span style="color:#159957;font-size:.8em;">Click here for more information</span>
 </button></a>
