@@ -1,24 +1,13 @@
-## Wonderful Event
-### 12--14 October 2024
+## DUAL-T Workshop
+### 5 July 2024 &mdash; Ghent, Belgium
 
-Ut egestas sit amet sem nec venenatis. Vivamus volutpat at tortor in consequat. Donec accumsan ex quis velit porttitor volutpat. Duis consequat elit nunc. Etiam feugiat at tortor vel tincidunt. Mauris a condimentum ante. Sed varius lacinia pulvinar.
+To celebrate the end of the DUAL-T project (Developing User-centred Approaches to Technological Innovation in Literary Translation), Paola Ruffo and the LT3 Team at Ugent are organizing the event *Literary Translators and Technology: insights from user-centred research and literary translators' perspectives*.
 
-<a href="http://google.be" target="_blank" class="green">Click here for more information</a>
-
-<hr style="boder-top:solid #eff0f1;height:1px;margin-top: 2rem;margin-bottom:2rem;">
-
-## Great Meeting
-### 27 June 2024
-
-Integer eu odio sed elit semper maximus. Aenean dapibus ultricies lacus, nec blandit tellus luctus eu. Vivamus non augue pharetra, aliquet erat quis, volutpat tortor. Phasellus venenatis turpis quis odio tincidunt semper. In ante tortor, fermentum nec gravida eget, condimentum a neque. Vivamus fringilla a diam id euismod.
-
-<a href="http://google.be" target="_blank" class="green">Click here for more information</a>
+<a href="https://bohtranslations.com/blog/dual-t-end-of-project-event-recap" target="_blank" class="green">Click here for more information</a>
 
 <hr style="boder-top:solid #eff0f1;height:1px;margin-top: 2rem;margin-bottom:2rem;">
 
-## Amazing Conference
-### 1--3 May 2024
+## CTT Workshop
+### 27 June 2024 &mdash; Sheffield, UK
 
-Donec in dolor massa. Etiam ultricies justo a lacus vestibulum, faucibus vulputate felis imperdiet. Vestibulum in massa erat. In elementum dui libero, quis tristique metus condimentum tincidunt. Quisque pretium metus non tortor vulputate consectetur. Nulla finibus, massa nec sagittis maximus, est lacus tempus mi, eu molestie neque ex vel ipsum. Etiam aliquam maximus luctus. Morbi consectetur lorem ipsum, ut pulvinar dolor laoreet vitae. Mauris vitae augue fermentum, commodo orci ut, gravida sem. Maecenas in dolor a turpis aliquam porta.
-
-<a href="http://google.be" target="_blank" class="green">Click here for more information</a>
+First Workshop on Creative-text Translation and Technology, co-located with EATM2024. The workshop aims to attract a broad range of attendees, such as researchers, educators, translators and industry stakeholders, to discuss the applicability of language technology, specifically translation technology such as machine translation (MT) or computer-assisted translation (CAT), to creative use cases such as marketing, literature and poetry, audiovisual translation, and multilingual content creation on social media. We also encourage paper submissions on reception studies, and the development and user-testing of tools related to creative- text translation.
