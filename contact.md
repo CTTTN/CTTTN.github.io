@@ -4,6 +4,8 @@ To get in touch with the network, you can contact individual <a href="members.ht
 
 <a href="mailto:ctttnetwork@gmail.com" class="green">Click here to send an email</a>
 
+<hr style="boder-top:solid #eff0f1;height:1px;margin-top: 2rem;margin-bottom:2rem;">
+
 <div id="map" style="height:400px;"></div>
 <script>
   var map = L.map('map').setView([47.1599,9.5540], 3);
