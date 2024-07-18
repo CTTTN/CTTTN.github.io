@@ -4,35 +4,33 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque elementum imper
 
 ## News
 
-<p style=text-align-last:justify;">
-  <a href="https://google.be" target="_blank"><button class="event">
-    <span style="color:#159957;">
-      Event 1
-    </span><br/>&nbsp;<br/>
-    <span style="font-size:.8em;">
-      Short description.
-    </span><br/>&nbsp;<br/>
-    <span style="color:#159957;font-size:.8em;">Click here for more information</span>
-  </button></a>
-  <a href="https://google.be" target="_blank"><button class="event">
-    <span style="color:#159957;">
-      Event 2
-    </span><br/>&nbsp;<br/>
-    <span style="font-size:.8em;">
-      Short description.
-    </span><br/>&nbsp;<br/>
-    <span style="color:#159957;font-size:.8em;">Click here for more information</span>
-  </button></a>
-  <a href="https://google.be" target="_blank"><button class="event">
-    <span style="color:#159957;">
-      Event 3
-    </span><br/>&nbsp;<br/>
-    <span style="font-size:.8em;">
-      Short description.
-    </span><br/>&nbsp;<br/>
-    <span style="color:#159957;font-size:.8em;">Click here for more information</span>
-  </button></a>
-</p>
+<a href="https://google.be" target="_blank"><button class="event">
+  <span style="color:#159957;">
+    Event 1
+  </span><br/>&nbsp;<br/>
+  <span style="font-size:.8em;">
+    Short description.
+  </span><br/>&nbsp;<br/>
+  <span style="color:#159957;font-size:.8em;">Click here for more information</span>
+</button></a>
+<a href="https://google.be" target="_blank"><button class="event">
+  <span style="color:#159957;">
+    Event 2
+  </span><br/>&nbsp;<br/>
+  <span style="font-size:.8em;">
+    Short description.
+  </span><br/>&nbsp;<br/>
+  <span style="color:#159957;font-size:.8em;">Click here for more information</span>
+</button></a>
+<a href="https://google.be" target="_blank"><button class="event">
+  <span style="color:#159957;">
+    Event 3
+  </span><br/>&nbsp;<br/>
+  <span style="font-size:.8em;">
+    Short description.
+  </span><br/>&nbsp;<br/>
+  <span style="color:#159957;font-size:.8em;">Click here for more information</span>
+</button></a>
 
 ## Contact
 
