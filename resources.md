@@ -1,9 +1,5 @@
-This page could be used to share scientific or more accessible articles and publications, podcasts, videos, etc. Anything related to creative translation and technology could potentially be included here. Of course, a separate page could also be added to the website for a particular type of resource.
+## Podcast: The Visible Art of Translation
 
-<hr style="boder-top:solid #eff0f1;height:1px;margin-top: 2rem;margin-bottom:2rem;">
+These series of podcasts are part of the EU-funded INCREC project at the University of Groningen. Our focus is creativity, translation and technology in literary and audiovisual translation. Our goal is to give visibility to the often invisible skills, role and voice of professional translators.
 
-Pellentesque finibus porta fringilla. Vivamus ac quam ante. Quisque ultrices feugiat nulla, id tincidunt est tristique fermentum. Vivamus vel placerat magna. Donec non luctus est. Aliquam vitae volutpat orci. Phasellus interdum tempor felis, eget sollicitudin turpis eleifend et. Nam vel felis magna. Sed sed tellus suscipit, consequat ipsum eu, facilisis arcu. Phasellus non libero ut lectus ultricies accumsan.
-
-Maecenas posuere finibus ipsum ac dictum. Fusce ullamcorper finibus turpis sed malesuada. Duis efficitur a diam eget fringilla. Vivamus elit ligula, consectetur ut eros et, dictum tristique nisi. Proin a metus mauris. Aliquam porta ultricies aliquet. Aliquam erat volutpat. Aliquam ultrices commodo odio. Nulla maximus velit vitae elit vestibulum, vel viverra velit vehicula. Nulla facilisi. Curabitur nec nulla sed libero vulputate porttitor ac quis lacus. Aliquam varius tortor at nulla porta placerat vitae non odio.
-
-Donec rutrum leo ac massa bibendum congue. Sed ac turpis sit amet ipsum congue fringilla sed non nunc. Vestibulum id tristique metus, at semper lacus. Ut congue enim turpis, ultrices laoreet diam sagittis non. Vestibulum dictum sagittis risus, facilisis faucibus risus feugiat ac. Donec at mattis leo, eu tristique dolor. Mauris pharetra magna non turpis bibendum, sed vestibulum neque aliquet. Fusce ac pulvinar nibh, vitae tincidunt felis. Aliquam nec massa et ipsum imperdiet ultrices nec sit amet diam. 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/2Xk77k65qkcFhV6eI4ts8F?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
