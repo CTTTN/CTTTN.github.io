@@ -4,7 +4,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque elementum imper
 
 ## News
 
-<a href="https://google.be" target="_blank"><button class="event">
+<a href="https://bohtranslations.com/blog/dual-t-end-of-project-event-recap" target="_blank"><button class="event">
   <span style="color:#159957;">
     DUAL-T Workshop
   </span><br/>&nbsp;<br/>
@@ -13,7 +13,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque elementum imper
   </span><br/>&nbsp;<br/>
   <span style="color:#159957;font-size:.8em;">Click here for more information</span>
 </button></a>
-<a href="https://bohtranslations.com/blog/dual-t-end-of-project-event-recap" target="_blank"><button class="event">
+<a href="https://ctt2024.ccl.kuleuven.be/" target="_blank"><button class="event">
   <span style="color:#159957;">
     CTT Workshop
   </span><br/>&nbsp;<br/>
@@ -22,7 +22,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque elementum imper
   </span><br/>&nbsp;<br/>
   <span style="color:#159957;font-size:.8em;">Click here for more information</span>
 </button></a>
-<a href="https://ctt2024.ccl.kuleuven.be/" target="_blank"><button class="event">
+<a href="https://open.spotify.com/show/2Xk77k65qkcFhV6eI4ts8F" target="_blank"><button class="event">
   <span style="color:#159957;">
     INCREC Podcast
   </span><br/>&nbsp;<br/>
