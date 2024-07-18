@@ -10,4 +10,6 @@ To celebrate the end of the DUAL-T project (Developing User-centred Approaches t
 ## CTT Workshop
 ### 27 June 2024 &mdash; Sheffield, UK
 
-First Workshop on Creative-text Translation and Technology, co-located with EATM2024. The workshop aims to attract a broad range of attendees, such as researchers, educators, translators and industry stakeholders, to discuss the applicability of language technology, specifically translation technology such as machine translation (MT) or computer-assisted translation (CAT), to creative use cases such as marketing, literature and poetry, audiovisual translation, and multilingual content creation on social media. We also encourage paper submissions on reception studies, and the development and user-testing of tools related to creative- text translation.
+First Workshop on Creative-text Translation and Technology, co-located with EATM2024. The workshop aims to attract a broad range of attendees, such as researchers, educators, translators and industry stakeholders, to discuss the applicability of language technology, specifically translation technology such as machine translation (MT) or computer-assisted translation (CAT), to creative use cases such as marketing, literature and poetry, audiovisual translation, and multilingual content creation on social media.
+
+<a href="https://ctt2024.ccl.kuleuven.be/" target="_blank" class="green">Click here for more information</a>
