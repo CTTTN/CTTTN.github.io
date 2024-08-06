@@ -1,4 +1,4 @@
-[Podcasts](https://ctttn.github.io/resources.html#podcasts) | [Other initiatives](https://ctttn.github.io/resources.html#initiatives)
+<a href="https://ctttn.github.io/resources.html#podcasts">Podcasts</a> | <a href="https://ctttn.github.io/resources.html#initiatives">Other initiatives</a>
 
 <hr style="boder-top:solid #eff0f1;height:1px;margin-top: 2rem;margin-bottom:2rem;">
 
@@ -12,6 +12,6 @@ These series of podcasts are part of the EU-funded INCREC project at the Univers
 
 <h2 id="initiatives">Other intiatives</h2>
 
-[Kollektive Intelligenz](https://kollektive-intelligenz.de/) (DE)
+<a href="https://kollektive-intelligenz.de/" target="_blank" class="green">Kollektive Intelligenz</a> (DE)
 
-[L'Observatoire de la Traduction Automatique](https://www.atlas-citl.org/lobservatoire-de-la-traduction-automatique/) (FR)
+<a href="https://www.atlas-citl.org/lobservatoire-de-la-traduction-automatique/" target="_blank" class="green">L'Observatoire de la Traduction Automatique</a> (FR)
