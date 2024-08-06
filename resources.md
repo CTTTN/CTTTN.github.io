@@ -1,8 +1,10 @@
-<a href="https://ctttn.github.io/resources.html#podcasts">Podcasts</a> | <a href="https://ctttn.github.io/resources.html#initiatives">Other initiatives</a>
+<a href="https://ctttn.github.io/resources.html#podcasts" class="green">Podcasts</a> | <a href="https://ctttn.github.io/resources.html#initiatives" class="green">Other Initiatives</a>
 
 <hr style="boder-top:solid #eff0f1;height:1px;margin-top: 2rem;margin-bottom:2rem;">
 
-<h2 id="podcasts">Podcast: The Visible Art of Translation</h2>
+<h2 id="podcasts">Podcasts</h2>
+
+### The Visible Art of Translation
 
 These series of podcasts are part of the EU-funded INCREC project at the University of Groningen. Our focus is creativity, translation and technology in literary and audiovisual translation. Our goal is to give visibility to the often invisible skills, role and voice of professional translators.
 
