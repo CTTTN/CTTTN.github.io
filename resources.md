@@ -1,4 +1,4 @@
-<p style="text-align-last:justify;"><a href="https://ctttn.github.io/resources.html#podcasts" class="green">Podcasts</a> &vert; <a href="https://ctttn.github.io/resources.html#issues" class="green">Special Issues</a> &vert; <a href="https://ctttn.github.io/resources.html#press" class="green">Press Coverage</a> &vert; <a href="https://ctttn.github.io/resources.html#opinions" class="green">Opinions</a> &vert; <a href="https://ctttn.github.io/resources.html#initiatives" class="green">Other Initiatives</a></p>
+<a href="https://ctttn.github.io/resources.html#podcasts" class="green">Podcasts</a> &vert; <a href="https://ctttn.github.io/resources.html#issues" class="green">Special Issues</a> &vert; <a href="https://ctttn.github.io/resources.html#press" class="green">Press Coverage</a> &vert; <a href="https://ctttn.github.io/resources.html#opinions" class="green">Opinions</a> &vert; <a href="https://ctttn.github.io/resources.html#initiatives" class="green">Other Initiatives</a>
 
 <hr style="boder-top:solid #eff0f1;height:1px;margin-top: 2rem;margin-bottom:2rem;">
 
