@@ -10,7 +10,7 @@
   <a href="https://doi.org/10.1075/babel.69.4" target="_blank"><img src="assets/img/babel_69_4_2023.jpg" alt="Babel vol. 64 no. 4" style="width:9em;height:13.5em;border:1px solid #159957;"></a>
   <a href="https://revistes.uab.cat/tradumatica/issue/view/n21" target="_blank"><img src="assets/img/tradumatica_21_2023.jpg" alt="Tradumàtica no. 21" style="width:9em;height:13.5em;border:1px solid #159957;"></a>
   <a href="https://doi.org/10.4324/9781003094159" target="_blank"><img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjTCNHPqSlKzDgoaVmKCREHH1aX3O4EXGhtuybO24BU8FFsqoP" alt="Using Technologies for Creative-Text Translation" style="width:9em;height:13.5em;border:1px solid #159957;"></a>
-  <a href="https://interfas.univ-tlse2.fr/lamaindethot/899" target="_blank"><img src="assets/img/lamaindethot_9_2021.jpg" alt="La Main de Thôt no. 9" style="width:9em;height:13.5em;border:1px solid #159957;margin-right:.5em;"></a>
+  <a href="https://interfas.univ-tlse2.fr/lamaindethot/899" target="_blank"><img src="assets/img/lamaindethot_9_2021.jpg" alt="La Main de Thôt no. 9" style="width:9em;height:13.5em;border:1px solid #159957;margin-right:.4em;"></a>
   <a href="https://aclanthology.org/volumes/W19-73/" target="_blank"><img src="assets/img/mtsummit_2019.jpg" alt="Proceedings of MT Summit 2019" style="width:9em;height:13.5em;border:1px solid #159957;"></a>
 </p>
 
