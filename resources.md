@@ -5,7 +5,7 @@
 <h2 id="issues">Books and Journal Issues</h2>
 
 <p style="text-align-last:justify;">
-  <a href="https://ctt2024.ccl.kuleuven.be/home" target="_blank"><img src="assets/img/eamt_2024.jpg" alt="Proceedings of EAMT 2024" style="width:9em;height:13.5em;border:1px solid #159957;"></a>
+  <a href="https://ctt2024.ccl.kuleuven.be/home" target="_blank"><img src="assets/img/ctt_2024.jpg" alt="Proceedings of EAMT 2024" style="width:9em;height:13.5em;border:1px solid #159957;"></a>
   <a href="https://doi.org/10.4324/9781003357391" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUfqSW8rYarxA5zndCCH31OaaMUEHbYDJ72o1aI8kj8S3gm54C" alt="Computer-Assisted Literary Translation" style="width:9em;height:13.5em;border:1px solid #159957;"></a>
   <a href="https://doi.org/10.1075/babel.69.4" target="_blank"><img src="assets/img/babel_69_4_2023.jpg" alt="Babel vol. 64 no. 4" style="width:9em;height:13.5em;border:1px solid #159957;"></a>
   <a href="https://revistes.uab.cat/tradumatica/issue/view/n21" target="_blank"><img src="assets/img/tradumatica_21_2023.jpg" alt="Tradumàtica no. 21" style="width:9em;height:13.5em;border:1px solid #159957;"></a>
