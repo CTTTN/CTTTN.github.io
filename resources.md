@@ -26,7 +26,7 @@ These series of podcasts are part of the EU-funded INCREC project at the Univers
 
 <h2 id="press">Press Coverage</h2>
 
-Le Monde, "<a href="https://www.lemonde.fr/economie/article/2024/02/02/les-traducteurs-litteraires-victimes-de-l-intelligence-artificielle_6214361_3234.html" target="_blank">Les traducteurs littéraires victimes de l’intelligence artificielle</a>" (FR)
+Le Monde, "<a href="https://www.lemonde.fr/economie/article/2024/02/02/les-traducteurs-litteraires-victimes-de-l-intelligence-artificielle_6214361_3234.html" target="_blank" class="green">Les traducteurs littéraires victimes de l’intelligence artificielle</a>" (FR)
 
 <hr style="boder-top:solid #eff0f1;height:1px;margin-top: 2rem;margin-bottom:2rem;">
 
