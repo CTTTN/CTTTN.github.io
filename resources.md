@@ -4,9 +4,10 @@
 
 <h2 id="issues">Books and Journal Issues</h2>
 
-<a href="https://doi.org/10.4324/9781003357391" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUfqSW8rYarxA5zndCCH31OaaMUEHbYDJ72o1aI8kj8S3gm54C" alt="Computer-Assisted Literary Translation" style="width:9em;height:13.5em;"></a>
-
-<a href="https://doi.org/10.4324/9781003094159" target="_blank"><img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjTCNHPqSlKzDgoaVmKCREHH1aX3O4EXGhtuybO24BU8FFsqoP" alt="Using Technologies for Creative-Text Translation" style="width:9em;height:13.5em;"></a>
+<p style="text-align-last:justify;">
+  <a href="https://doi.org/10.4324/9781003357391" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUfqSW8rYarxA5zndCCH31OaaMUEHbYDJ72o1aI8kj8S3gm54C" alt="Computer-Assisted Literary Translation" style="width:9em;height:13.5em;border:1px solid #159957;"></a>
+  <a href="https://doi.org/10.4324/9781003094159" target="_blank"><img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjTCNHPqSlKzDgoaVmKCREHH1aX3O4EXGhtuybO24BU8FFsqoP" alt="Using Technologies for Creative-Text Translation" style="width:9em;height:13.5em;border:1px solid #159957;"></a>
+</p>
 
 <hr style="boder-top:solid #eff0f1;height:1px;margin-top: 2rem;margin-bottom:2rem;">
 
