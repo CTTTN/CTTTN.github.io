@@ -12,7 +12,7 @@ These series of podcasts are part of the EU-funded INCREC project at the Univers
 
 ### Lost in Translation, special episode on AI (FR)
 
-Podcast hosted Clara Joubert, PhD student in translation studies, in which each episode features a different translator, interpreter or researcher to talk about translation in all its complexity and diversity. See, also, this <a href="https://open.spotify.com/episode/07mfd7MYH2F0m2mOOISgop?si=904340ad27234714" target="_blank">episode on literary machine translation</a>.
+Podcast hosted Clara Joubert, PhD student in translation studies, in which each episode features a different translator, interpreter or researcher to talk about translation in all its complexity and diversity. See, also, this <a href="https://open.spotify.com/episode/07mfd7MYH2F0m2mOOISgop?si=904340ad27234714" target="_blank" class="green">episode on literary machine translation</a>.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3UTIPjkoytvNThRes5gmlf?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
