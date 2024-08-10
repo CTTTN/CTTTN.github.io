@@ -2,11 +2,19 @@
 
 <hr style="boder-top:solid #eff0f1;height:1px;margin-top: 2rem;margin-bottom:2rem;">
 
-<h2 id="podcasts">Podcast: The Visible Art of Translation</h2>
+<h2 id="podcasts">Podcasts</h2>
+
+### The Visible Art of Translation (EN)
 
 These series of podcasts are part of the EU-funded INCREC project at the University of Groningen. Our focus is creativity, translation and technology in literary and audiovisual translation. Our goal is to give visibility to the often invisible skills, role and voice of professional translators.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/2Xk77k65qkcFhV6eI4ts8F?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+### Lost in Translation, special episode on AI (FR)
+
+Podcast hosted Clara Joubert, PhD student in translation studies, in which each episode features a different translator, interpreter or researcher to talk about translation in all its complexity and diversity. See, also, this <a href="https://open.spotify.com/episode/07mfd7MYH2F0m2mOOISgop?si=904340ad27234714" target="_blank">episode on literary machine translation</a>.
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3UTIPjkoytvNThRes5gmlf?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <hr style="boder-top:solid #eff0f1;height:1px;margin-top: 2rem;margin-bottom:2rem;">
 
