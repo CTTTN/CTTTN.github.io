@@ -48,8 +48,10 @@ button.event:hover {
   -ms-transform: translate(-50%, -50%);}
 
 .container {
+  width:9em;
+  height:13.5em;
   position: relative;
-  width: 50%;}
+  border:1px solid #159957;}
 
 .container:hover .issue {
   opacity: 0.3;}
