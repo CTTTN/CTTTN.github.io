@@ -31,3 +31,24 @@ button.event {
 
 button.event:hover {
   box-shadow: 5px 5px 7px rgba(0, 0, 0, 0.2);}
+
+.issue {
+  transition: .5s ease;
+  backface-visibility: hidden;}
+
+.middle {
+  opacity: 0;
+  text-align: center;
+  transition: .5s ease;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);}
+
+.container {
+  position: relative;
+  width: 50%;}
+
+.container:hover .issue {
+  opacity: 0.3;}
+
+.container:hover .middle {
+  opacity: 1;}
