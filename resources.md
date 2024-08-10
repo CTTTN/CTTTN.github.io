@@ -43,15 +43,16 @@ Podcast hosted Clara Joubert, PhD student in translation studies, in which each 
   </div>
 </div>
 
+<div style="display:flex;margin-top:.3em;">
   <div class="issue-container" style="margin-right:.3em;">
     <a href="https://interfas.univ-tlse2.fr/lamaindethot/899" target="_blank"><img src="assets/img/lamaindethot_9_2021.jpg" alt="La Main de Thôt no. 9" class="issue"></a>
     <div class="issue-middle"><div class="issue-text">🇫🇷</div></div>
   </div>
-
   <div class="issue-container">
     <a href="https://aclanthology.org/volumes/W19-73/" target="_blank"><img src="assets/img/mtsummit_2019.jpg" alt="Proceedings of MT Summit 2019" class="issue"></a>
     <div class="issue-middle"><div class="issue-text">🇬🇧</div></div>
   </div>
+</div>
 
 <hr style="boder-top:solid #eff0f1;height:1px;margin-top: 2rem;margin-bottom:2rem;">
 
