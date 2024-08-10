@@ -43,8 +43,8 @@ Podcast hosted Clara Joubert, PhD student in translation studies, in which each 
   </div>
 </div>
 
-<div style="display:flex;margin-top:.4em;">
-  <div class="issue-container" style="margin-right:.4em;">
+<div style="display:flex;margin-top:.5em;">
+  <div class="issue-container" style="margin-right:.5em;">
     <a href="https://interfas.univ-tlse2.fr/lamaindethot/899" target="_blank"><img src="assets/img/lamaindethot_9_2021.jpg" alt="La Main de Thôt no. 9" class="issue"></a>
     <div class="issue-middle"><div class="issue-text">🇫🇷</div></div>
   </div>
