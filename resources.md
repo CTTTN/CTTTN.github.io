@@ -12,7 +12,7 @@ These series of podcasts are part of the EU-funded INCREC project at the Univers
 
 ### Lost in Translation, special episode on AI (FR)
 
-Podcast hosted Clara Joubert, PhD student in translation studies, in which each episode features a different translator, interpreter or researcher to talk about translation in all its complexity and diversity. See, also, this <a href="https://open.spotify.com/episode/07mfd7MYH2F0m2mOOISgop?si=904340ad27234714" target="_blank" class="green">episode on literary machine translation</a>.
+Podcast hosted Clara Joubert, PhD student in translation studies, in which each episode features a different translator, interpreter or researcher talking about translation in all its complexity and diversity. See, also, this <a href="https://open.spotify.com/episode/07mfd7MYH2F0m2mOOISgop?si=904340ad27234714" target="_blank" class="green">episode on literary machine translation</a>.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3UTIPjkoytvNThRes5gmlf?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -26,7 +26,7 @@ Podcast hosted Clara Joubert, PhD student in translation studies, in which each 
     <div class="issue-middle"><div class="issue-text">🇬🇧</div></div>
   </div>
   <div class="issue-container">
-    <a href="https://doi.org/10.4324/9781003357391" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUfqSW8rYarxA5zndCCH31OaaMUEHbYDJ72o1aI8kj8S3gm54C" alt="Computer-Assisted Literary Translation" class="issue"></a>
+    <a href="https://doi.org/10.4324/9781003357391" target="_blank"><img src="assets/img/calt_2024.jpg" alt="Computer-Assisted Literary Translation" class="issue"></a>
     <div class="issue-middle"><div class="issue-text">🇬🇧</div></div>
   </div>
   <div class="issue-container">
@@ -38,13 +38,13 @@ Podcast hosted Clara Joubert, PhD student in translation studies, in which each 
     <div class="issue-middle"><div class="issue-text">🇬🇧 🇪🇸</div></div>
   </div>
   <div class="issue-container">
-    <a href="https://doi.org/10.4324/9781003094159" target="_blank"><img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjTCNHPqSlKzDgoaVmKCREHH1aX3O4EXGhtuybO24BU8FFsqoP" alt="Using Technologies for Creative-Text Translation" class="issue"></a>
+    <a href="https://doi.org/10.4324/9781003094159" target="_blank"><img src="assets/img/utctt_2022.jpg" alt="Using Technologies for Creative-Text Translation" class="issue"></a>
     <div class="issue-middle"><div class="issue-text">🇬🇧</div></div>
   </div>
 </div>
 
-<div style="display:flex;margin-top:.3em;">
-  <div class="issue-container" style="margin-right:.3em;">
+<div style="display:flex;margin-top:.4em;">
+  <div class="issue-container" style="margin-right:.4em;">
     <a href="https://interfas.univ-tlse2.fr/lamaindethot/899" target="_blank"><img src="assets/img/lamaindethot_9_2021.jpg" alt="La Main de Thôt no. 9" class="issue"></a>
     <div class="issue-middle"><div class="issue-text">🇫🇷</div></div>
   </div>
