@@ -49,8 +49,10 @@ Podcast hosted Clara Joubert, PhD student in translation studies, in which each 
     <div class="issue-middle"><div class="issue-text">🇫🇷</div></div>
   </div>
   <div class="issue-container">
-    <a href="https://aclanthology.org/volumes/W19-73/" target="_blank"><img src="assets/img/mtsummit_2019.jpg" alt="Proceedings of MT Summit 2019" class="issue"></a>
-    <div class="issue-middle"><div class="issue-text">🇬🇧</div></div>
+    <a href="https://aclanthology.org/volumes/W19-73/" target="_blank">
+      <img src="assets/img/mtsummit_2019.jpg" alt="Proceedings of MT Summit 2019" class="issue">
+      <div class="issue-middle"><div class="issue-text">🇬🇧</div></div>
+    </a>
   </div>
 </div>
 
