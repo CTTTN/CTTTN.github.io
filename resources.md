@@ -22,31 +22,43 @@ Podcast hosted Clara Joubert, PhD student in translation studies, in which each 
 
 <div style="display:flex;justify-content:space-between;">
   <div class="issue-container">
-    <a href="https://ctt2024.ccl.kuleuven.be/home" target="_blank"><img src="assets/img/ctt_2024.jpg" alt="Proceedings of EAMT 2024" class="issue"></a>
-    <div class="issue-middle"><div class="issue-text">🇬🇧</div></div>
+    <a href="https://ctt2024.ccl.kuleuven.be/home" target="_blank">
+      <img src="assets/img/ctt_2024.jpg" alt="Proceedings of EAMT 2024" class="issue">
+      <div class="issue-middle"><div class="issue-text">🇬🇧</div></div>
+    </a>
   </div>
   <div class="issue-container">
-    <a href="https://doi.org/10.4324/9781003357391" target="_blank"><img src="assets/img/calt_2024.jpg" alt="Computer-Assisted Literary Translation" class="issue"></a>
-    <div class="issue-middle"><div class="issue-text">🇬🇧</div></div>
+    <a href="https://doi.org/10.4324/9781003357391" target="_blank">
+      <img src="assets/img/calt_2024.jpg" alt="Computer-Assisted Literary Translation" class="issue">
+      <div class="issue-middle"><div class="issue-text">🇬🇧</div></div>
+    </a>
   </div>
   <div class="issue-container">
-    <a href="https://doi.org/10.1075/babel.69.4" target="_blank"><img src="assets/img/babel_69_4_2023.jpg" alt="Babel vol. 64 no. 4" class="issue"></a>
-    <div class="issue-middle"><div class="issue-text">🇬🇧</div></div>
+    <a href="https://doi.org/10.1075/babel.69.4" target="_blank">
+      <img src="assets/img/babel_69_4_2023.jpg" alt="Babel vol. 64 no. 4" class="issue">
+      <div class="issue-middle"><div class="issue-text">🇬🇧</div></div>
+    </a>
   </div>
   <div class="issue-container">
-    <a href="https://revistes.uab.cat/tradumatica/issue/view/n21" target="_blank"><img src="assets/img/tradumatica_21_2023.jpg" alt="Tradumàtica no. 21" class="issue"></a>
-    <div class="issue-middle"><div class="issue-text">🇬🇧 🇪🇸</div></div>
+    <a href="https://revistes.uab.cat/tradumatica/issue/view/n21" target="_blank">
+      <img src="assets/img/tradumatica_21_2023.jpg" alt="Tradumàtica no. 21" class="issue">
+      <div class="issue-middle"><div class="issue-text">🇬🇧 🇪🇸</div></div>
+    </a>
   </div>
   <div class="issue-container">
-    <a href="https://doi.org/10.4324/9781003094159" target="_blank"><img src="assets/img/utctt_2022.jpg" alt="Using Technologies for Creative-Text Translation" class="issue"></a>
-    <div class="issue-middle"><div class="issue-text">🇬🇧</div></div>
+    <a href="https://doi.org/10.4324/9781003094159" target="_blank">
+      <img src="assets/img/utctt_2022.jpg" alt="Using Technologies for Creative-Text Translation" class="issue">
+      <div class="issue-middle"><div class="issue-text">🇬🇧</div></div>
+    </a>
   </div>
 </div>
 
 <div style="display:flex;margin-top:.5em;">
   <div class="issue-container" style="margin-right:.5em;">
-    <a href="https://interfas.univ-tlse2.fr/lamaindethot/899" target="_blank"><img src="assets/img/lamaindethot_9_2021.jpg" alt="La Main de Thôt no. 9" class="issue"></a>
-    <div class="issue-middle"><div class="issue-text">🇫🇷</div></div>
+    <a href="https://interfas.univ-tlse2.fr/lamaindethot/899" target="_blank">
+      <img src="assets/img/lamaindethot_9_2021.jpg" alt="La Main de Thôt no. 9" class="issue">
+      <div class="issue-middle"><div class="issue-text">🇫🇷</div></div>
+    </a>
   </div>
   <div class="issue-container">
     <a href="https://aclanthology.org/volumes/W19-73/" target="_blank">
