@@ -8,33 +8,35 @@ Similarly, this platform aims to give more visibility to research, translators a
 
 ## News
 
-<a href="https://bohtranslations.com/blog/dual-t-end-of-project-event-recap" target="_blank"><button class="event">
-  <span style="color:#159957;">
-    DUAL-T Workshop
-  </span><br/>&nbsp;<br/>
-  <span style="font-size:.8em;">
-    Paola ruffo and the LT3 team are organizing a symposium in conclusion of the DUAL-T project.
-  </span><br/>&nbsp;<br/>
-  <span style="color:#159957;font-size:.8em;">Click here for more information</span>
-</button></a>
-<a href="https://ctt2024.ccl.kuleuven.be/" target="_blank"><button class="event">
-  <span style="color:#159957;">
-    CTT Workshop
-  </span><br/>&nbsp;<br/>
-  <span style="font-size:.8em;">
-    Workshop on Creative-text Translation and Technology, co-located with EAMT2024.
-  </span><br/>&nbsp;<br/>
-  <span style="color:#159957;font-size:.8em;">Click here for more information</span>
-</button></a>
-<a href="https://open.spotify.com/show/2Xk77k65qkcFhV6eI4ts8F" target="_blank"><button class="event">
-  <span style="color:#159957;">
-    INCREC Podcast
-  </span><br/>&nbsp;<br/>
-  <span style="font-size:.8em;">
-    Series of podcasts by Ana Guerberof focusing on creativity, translation and technology.
-  </span><br/>&nbsp;<br/>
-  <span style="color:#159957;font-size:.8em;">Click here for more information</span>
-</button></a>
+<div style="display:flex;gap:1.5em;flex-wrap:wrap;">
+  <a href="https://bohtranslations.com/blog/dual-t-end-of-project-event-recap" target="_blank"><button class="event">
+    <span style="color:#159957;">
+      DUAL-T Workshop
+    </span><br/>&nbsp;<br/>
+    <span style="font-size:.8em;">
+      Paola ruffo and the LT3 team are organizing a symposium in conclusion of the DUAL-T project.
+    </span><br/>&nbsp;<br/>
+    <span style="color:#159957;font-size:.8em;">Click here for more information</span>
+  </button></a>
+  <a href="https://ctt2024.ccl.kuleuven.be/" target="_blank"><button class="event">
+    <span style="color:#159957;">
+      CTT Workshop
+    </span><br/>&nbsp;<br/>
+    <span style="font-size:.8em;">
+      Workshop on Creative-text Translation and Technology, co-located with EAMT2024.
+    </span><br/>&nbsp;<br/>
+    <span style="color:#159957;font-size:.8em;">Click here for more information</span>
+  </button></a>
+  <a href="https://open.spotify.com/show/2Xk77k65qkcFhV6eI4ts8F" target="_blank"><button class="event">
+    <span style="color:#159957;">
+      INCREC Podcast
+    </span><br/>&nbsp;<br/>
+    <span style="font-size:.8em;">
+      Series of podcasts by Ana Guerberof focusing on creativity, translation and technology.
+    </span><br/>&nbsp;<br/>
+    <span style="color:#159957;font-size:.8em;">Click here for more information</span>
+  </button></a>
+</div>
 
 ## Contact
 
