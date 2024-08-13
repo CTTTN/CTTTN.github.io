@@ -20,7 +20,7 @@ Podcast hosted Clara Joubert, PhD student in translation studies, in which each 
 
 <h2 id="issues">Special Issues</h2>
 
-<div style="display:flex;justify-content:space-between;flex-wrap:wrap;">
+<div style="display:flex;gap:.5em;flex-wrap:wrap;">
   <div class="issue-container">
     <a href="https://ctt2024.ccl.kuleuven.be/home" target="_blank">
       <img src="assets/img/ctt_2024.jpg" alt="Proceedings of EAMT 2024" class="issue">
@@ -51,10 +51,7 @@ Podcast hosted Clara Joubert, PhD student in translation studies, in which each 
       <div class="issue-middle"><div class="issue-text">🇬🇧</div></div>
     </a>
   </div>
-</div>
-
-<div style="display:flex;margin-top:.5em;">
-  <div class="issue-container" style="margin-right:.5em;">
+  <div class="issue-container">
     <a href="https://interfas.univ-tlse2.fr/lamaindethot/899" target="_blank">
       <img src="assets/img/lamaindethot_9_2021.jpg" alt="La Main de Thôt no. 9" class="issue">
       <div class="issue-middle"><div class="issue-text">🇫🇷</div></div>
