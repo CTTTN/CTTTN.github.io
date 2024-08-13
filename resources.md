@@ -72,11 +72,21 @@ Podcast hosted Clara Joubert, PhD student in translation studies, in which each 
 
 <h2 id="press">Press Coverage</h2>
 
-Le Monde, "<a href="https://www.lemonde.fr/economie/article/2024/02/02/les-traducteurs-litteraires-victimes-de-l-intelligence-artificielle_6214361_3234.html" target="_blank" class="green">Les traducteurs littéraires victimes de l’intelligence artificielle</a>" (FR)
+Le Monde, "<a href="https://www.lemonde.fr/economie/article/2024/02/02/les-traducteurs-litteraires-victimes-de-l-intelligence-artificielle_6214361_3234.html" target="_blank" class="green">Les traducteurs littéraires victimes de l'intelligence artificielle</a>" (FR)
 
 <hr style="boder-top:solid #eff0f1;height:1px;margin-top: 2rem;margin-bottom:2rem;">
 
 <h2 id="opinions">Opinions</h2>
+
+CEATL *et al*., "<a href="https://europeanwriterscouncil.eu/240425_cwos_jointstatement_ai-act/" target="_blank" class="green">Joint Statement on Generative Artificial Intelligence and the EU AI Act</a>" (EN)
+
+A&ast;dS, IGÜ &amp; VdÜ, "<a href="https://literaturuebersetzer.de/aktuelles/offener-brief-ki/" target="_blank" class="green">Offener Brief der deutschsprachigen Übersetzer&ast;innenverbände zur KI-Verordnung</a>" (DE)
+
+En chair et en os, "<a href="https://enchairetenos.org/" target="_blank" class="green">Littérature, cinéma, presse, jeux vidéo&nbsp;: non à des traductions sans âme</a>" (FR, AR, DE, EL, EN, ES, EU, HE, IT, PL, PT, RO, RU, SL, SR, SV, TR)
+
+ATLAS &amp; ATLF, "<a href="https://www.atlas-citl.org/tribune-ia/" target="_blank" class="green">IA et traduction littéraire&nbsp;: les traductrices et traducteurs exigent la transparence</a>" (FR, EN, ES, IT, TR, CS, PT)
+
+AVTE, "<a href="https://avteurope.eu/2021/09/13/press-release-avte-manifesto-on-machine-translation/" target="_blank" class="green">Machine Translation Manifesto</a>" (EN)
 
 <hr style="boder-top:solid #eff0f1;height:1px;margin-top: 2rem;margin-bottom:2rem;">
 
