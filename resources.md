@@ -20,7 +20,7 @@ Podcast hosted Clara Joubert, PhD student in translation studies, in which each 
 
 <h2 id="issues">Special Issues</h2>
 
-<div style="display:flex;justify-content:space-between;">
+<div style="display:flex;justify-content:space-between;flex-wrap:wrap;">
   <div class="issue-container">
     <a href="https://ctt2024.ccl.kuleuven.be/home" target="_blank">
       <img src="assets/img/ctt_2024.jpg" alt="Proceedings of EAMT 2024" class="issue">
