@@ -80,7 +80,7 @@ Le Monde, "<a href="https://www.lemonde.fr/economie/article/2024/02/02/les-tradu
 
 CEATL *et al*., "<a href="https://europeanwriterscouncil.eu/240425_cwos_jointstatement_ai-act/" target="_blank" class="green">Joint Statement on Generative Artificial Intelligence and the EU AI Act</a>" (EN)
 
-A&#42;dS, IGÜ &amp; VdÜ, "<a href="https://literaturuebersetzer.de/aktuelles/offener-brief-ki/" target="_blank" class="green">Offener Brief der deutschsprachigen Übersetzer&ast;innenverbände zur KI-Verordnung</a>" (DE)
+A&#42;dS, IGÜ &amp; VdÜ, "<a href="https://literaturuebersetzer.de/aktuelles/offener-brief-ki/" target="_blank" class="green">Offener Brief der deutschsprachigen Übersetzer&#42;innenverbände zur KI-Verordnung</a>" (DE)
 
 En chair et en os, "<a href="https://enchairetenos.org/" target="_blank" class="green">Littérature, cinéma, presse, jeux vidéo&nbsp;: non à des traductions sans âme</a>" (FR, AR, DE, EL, EN, ES, EU, HE, IT, PL, PT, RO, RU, SL, SR, SV, TR)
 
