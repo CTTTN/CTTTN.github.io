@@ -1,14 +1,14 @@
 ###### Claudine Borg<br/>
 *L-Università ta' Malta*<br/>
-<a href="https://research.rug.nl/en/persons/ana-guerberof-arenas/" class="green" target="_blank">Link to personal page</a>
+<a href="https://www.um.edu.mt/profile/claudineborg" class="green" target="_blank">Link to personal page</a>
 
 ###### Ana Guerberof<br/>
 *Rijksuniversiteit Groningen*<br/>
-<a href="https://www.um.edu.mt/profile/claudineborg" class="green" target="_blank">Link to personal page</a>
+<a href="https://research.rug.nl/en/persons/ana-guerberof-arenas/" class="green" target="_blank">Link to personal page</a>
 
 ###### Sabri Gürses<br/>
 *Boğaziçi Üniversitesi*<br/>
-<a href="https://transint.bogazici.edu.tr/mehmet-sahin" class="green" target="_blank">Link to personal page</a>
+<a href="https://ceviribilim.com/" class="green" target="_blank">Link to personal page</a>
 
 ###### Damien Hansen<br/>
 *Université libre de Bruxelles*<br/>
