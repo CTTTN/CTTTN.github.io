@@ -16,6 +16,15 @@ First Workshop on Creative-text Translation and Technology, co-located with EAMT
 
 <hr style="boder-top:solid #eff0f1;height:1px;margin-top: 2rem;margin-bottom:2rem;">
 
+## Edebi Makine Çevirisi Çalıştayı
+### 11&ndash;13 November 2023 &ndash; Istanbul, Turkey
+
+Workshop on literary machine translation, co-located with the *First National Congress on Translation and Interpreting Technologies* (CTK 2023). The workshop is centred around a scientific research project titled "Literary Machine Translation to Produce Translations that Reflect Translators' Style and Generate Retranslations".
+
+<a href="https://ceviriteknolojileri.bogazici.edu.tr/" target="_blank" class="green">Click here for more information</a>
+
+<hr style="boder-top:solid #eff0f1;height:1px;margin-top: 2rem;margin-bottom:2rem;">
+
 ## Traduction littéraire et intelligence artificielle&nbsp;: théorie, pratique, création
 ### 20&ndash;21 October 2022 &ndash; Paris, France
 
