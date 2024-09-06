@@ -1,18 +1,30 @@
-###### Some Person<br/>
-*Affiliation*<br/>
-<a href="http://google.be" class="green" target="_blank">Link to personal page</a>
+###### Claudine Borg<br/>
+*L-Università ta' Malta*<br/>
+<a href="https://research.rug.nl/en/persons/ana-guerberof-arenas/" class="green" target="_blank">Link to personal page</a>
 
-###### Another Person<br/>
-*Institution*<br/>
-<a href="http://google.be" class="green" target="_blank">Link to institutional page</a>
+###### Ana Guerberof<br/>
+*Rijksuniversiteit Groningen*<br/>
+<a href="https://www.um.edu.mt/profile/claudineborg" class="green" target="_blank">Link to personal page</a>
 
-###### And Another One<br/>
-*University*<br/>
-<a href="http://google.be" class="green" target="_blank">Link to social page</a>
+###### Sabri Gürses<br/>
+*Boğaziçi Üniversitesi*<br/>
+<a href="https://transint.bogazici.edu.tr/mehmet-sahin" class="green" target="_blank">Link to personal page</a>
 
-###### Yet Another Person<br/>
-*Place of Work*<br/>
-<a href="http://google.be" class="green" target="_blank">Link to organization page</a>
+###### Damien Hansen<br/>
+*Université libre de Bruxelles*<br/>
+<a href="https://hansenda.github.io/" class="green" target="_blank">Link to personal page</a>
+
+###### Lieve Macken<br/>
+*Universiteit Gent*<br/>
+<a href="https://lt3.ugent.be/people/lieve-macken/" class="green" target="_blank">Link to personal page</a>
+
+###### Paola Ruffo<br/>
+*Universiteit Gent*<br/>
+<a href="https://bohtranslations.com/" class="green" target="_blank">Link to personal page</a>
+
+###### Mehmet Şahin<br/>
+*Boğaziçi Üniversitesi*<br/>
+<a href="https://transint.bogazici.edu.tr/mehmet-sahin" class="green" target="_blank">Link to personal page</a>
 
 <hr style="boder-top:solid #eff0f1;height:1px;margin-top: 2rem;margin-bottom:2rem;">
 
