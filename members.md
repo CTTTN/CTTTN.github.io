@@ -2,7 +2,7 @@
 *L-Università ta' Malta*<br/>
 <a href="https://www.um.edu.mt/profile/claudineborg" class="green" target="_blank">Link to personal page</a>
 
-###### Ana Guerberof<br/>
+###### Ana Guerberof Arenas<br/>
 *Rijksuniversiteit Groningen*<br/>
 <a href="https://research.rug.nl/en/persons/ana-guerberof-arenas/" class="green" target="_blank">Link to personal page</a>
 
