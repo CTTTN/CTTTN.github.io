@@ -18,6 +18,10 @@
 *Universiteit Gent*<br/>
 <a href="https://lt3.ugent.be/people/lieve-macken/" class="green" target="_blank">Link to personal page</a>
 
+###### Bojana Mikelenić<br/>
+*Sveučilište u Zagrebu*<br/>
+<a href="https://www.ffzg.unizg.hr/roman/francuski/bojana-mikelenic/" class="green" target="_blank">Link to personal page</a>
+
 ###### Paola Ruffo<br/>
 *Universiteit Gent*<br/>
 <a href="https://bohtranslations.com/" class="green" target="_blank">Link to personal page</a>
