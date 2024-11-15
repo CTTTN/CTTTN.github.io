@@ -1,3 +1,7 @@
+###### Sergi Alvarez-Vidal<br/>
+*Universitat Oberta de Catalunya*<br/>
+<a href="https://portalrecerca.uab.cat/es/persons/sergi-alvarez-vidal" class="green" target="_blank">Link to personal page</a>
+
 ###### Claudine Borg<br/>
 *L-Università ta' Malta*<br/>
 <a href="https://www.um.edu.mt/profile/claudineborg" class="green" target="_blank">Link to personal page</a>
@@ -21,6 +25,10 @@
 ###### Bojana Mikelenić<br/>
 *Sveučilište u Zagrebu*<br/>
 <a href="https://www.ffzg.unizg.hr/roman/francuski/bojana-mikelenic/" class="green" target="_blank">Link to personal page</a>
+
+###### Antoni Oliver González<br/>
+*Universitat Oberta de Catalunya*<br/>
+<a href="https://talent.uoc.edu/en/antoni-oliver-gonzalez.html" class="green" target="_blank">Link to personal page</a>
 
 ###### Paola Ruffo<br/>
 *Universiteit Gent*<br/>
