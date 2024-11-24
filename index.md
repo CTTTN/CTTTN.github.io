@@ -4,12 +4,12 @@ This network and web platform were born out of the growing scientific, professio
 
 This network aims at assessing the convergence and divergence points between human and artificial translation; between the socio-technological realities of translators and the challenges of the industry and publishing world; between the steady improvement of applications such as neural machine translation and the overoptimistic views or fears tied to generative artificial intelligence; and between the technological advances and ergonomic aspects of translation tools. More specific points of interest include the effects of these systems on the translation and creative processes, on the reception of creative content and reader engagement, on language and style, as well as on the cultural production and transfer as a whole. In the medium term, this network will focus on the development of training materials, with the hope of empowering translators, informing the general public, sharing best practices for teaching, research and software engineering, and fostering connections with relevant stakeholders and other research field by acting as a contact point.
 
-Similarly, this platform aims to give more visibility to research, translators and their work, but also to promote a more inclusive and user-centred approach to the development of translation technology. To offer <a href="resources.html" class="green">resources</a>, suggest <a href="publications.html" class="green">scientific references</a>, report <a href="resources.html" class="green">coverage in the press</a>, archive <a href="events.html" class="green">events</a> and share news related to the topic of computer tools and creative translation.
+Similarly, this platform aims to give more visibility to research, translators and their work, but also to promote a more inclusive and user-centred approach to the development of translation technology. To offer <a href="resources.html" target="_self">resources</a>, suggest <a href="publications.html" target="_self">scientific references</a>, report <a href="resources.html" target="_self">coverage in the press</a>, archive <a href="events.html" target="_self">events</a> and share news related to the topic of computer tools and creative translation.
 
 ## News
 
 <div style="display:flex;gap:1.5em;flex-wrap:wrap;">
-  <a href="https://bohtranslations.com/blog/dual-t-end-of-project-event-recap" target="_blank"><button class="event">
+  <a href="https://bohtranslations.com/blog/dual-t-end-of-project-event-recap"><button class="event">
     <span style="color:#159957;">
       DUAL-T Workshop
     </span><br/>&nbsp;<br/>
@@ -18,7 +18,7 @@ Similarly, this platform aims to give more visibility to research, translators a
     </span><br/>&nbsp;<br/>
     <span style="color:#159957;font-size:.8em;">Click here for more information</span>
   </button></a>
-  <a href="https://ctt2024.ccl.kuleuven.be/" target="_blank"><button class="event">
+  <a href="https://ctt2024.ccl.kuleuven.be/"><button class="event">
     <span style="color:#159957;">
       CTT Workshop
     </span><br/>&nbsp;<br/>
@@ -27,7 +27,7 @@ Similarly, this platform aims to give more visibility to research, translators a
     </span><br/>&nbsp;<br/>
     <span style="color:#159957;font-size:.8em;">Click here for more information</span>
   </button></a>
-  <a href="https://open.spotify.com/show/2Xk77k65qkcFhV6eI4ts8F" target="_blank"><button class="event">
+  <a href="https://open.spotify.com/show/2Xk77k65qkcFhV6eI4ts8F"><button class="event">
     <span style="color:#159957;">
       INCREC Podcast
     </span><br/>&nbsp;<br/>
@@ -40,4 +40,4 @@ Similarly, this platform aims to give more visibility to research, translators a
 
 ## Contact
 
-This website aims to give visibility to the network and the work of its members. If you would like to join the network or to share some of your events and resources, you are more than welcome to reach out via our <a href="contact.html" class="green">contact page</a>.
+This website aims to give visibility to the network and the work of its members. If you would like to join the network or to share some of your events and resources, you are more than welcome to reach out via our <a href="contact.html" target="_self">contact page</a>.
