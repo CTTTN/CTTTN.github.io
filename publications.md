@@ -22,11 +22,15 @@ Oliver, Antoni and Sergi Alvarez-Vidal. '[LitPC: A set of tools for building par
 
 Puppel, Melissa and Claudine Borg. '[Evaluating ChatGPT's Performance in Creative Text Translation: A case-study from English into German](https://doi.org/10.22034/mic.2024.480506.1023).' *Media and Intercultural Communication: A Multidisciplinary Journal*, vol. 3, no. 1, 2024, pp. 1--27.
 
+<hr style="boder-top:solid #eff0f1;height:1px;margin-top: 2rem;margin-bottom:2rem;">
+
 ## 2023
 
 Guerberof Arenas, Ana and Dimitris Asimakoulas. '[Creative skills development: training translators to write in the era of AI](https://doi.org/10.7146/hjlcb.vi63.143078).' *HERMES*, no. 63, 2023, pp. 227--243.
 
 Hansen, Damien and Emmanuelle Esperança-Rodier. '[Human-Adapted MT for Literary Texts: Reality or Fantasy?](http://acl-anthology.online/nettt-2022/)' *Proceedings of the New Trends in Translation and Technology Conference*, edited by Sheila Castilho *et al*., Incoma Ltd, 2023, pp. 178--190.
+
+<hr style="boder-top:solid #eff0f1;height:1px;margin-top: 2rem;margin-bottom:2rem;">
 
 ## 2022
 
@@ -40,6 +44,8 @@ Hansen, Damien *et al*. '[La traduction littéraire automatique : Adapter la m
 
 Oliver, Antoni, Antonio Toral and Ana Guerberof Arenas. '[Bilingual e-books via neural machine translation and their reception](https://doi.org/10.4324/9781003094159-5).' *Using Technologies for Creative-Text Translation*, edited by James Luke Hadley *et al*., Routledge, 2022, pp. 89--115.
 
+<hr style="boder-top:solid #eff0f1;height:1px;margin-top: 2rem;margin-bottom:2rem;">
+
 ## 2021
 
 Hansen, Damien. '[Les lettres et la machine : Un état de l’art en traduction littéraire automatique](https://aclanthology.org/2021.jeptalnrecital-recital.3.pdf).' *Actes de la 28e Conférence sur le Traitement Automatique des Langues Naturelles*, edited by Pascal Denis *et al*., vol. 2, ATALA, 2021, pp. 28--45.
@@ -47,6 +53,8 @@ Hansen, Damien. '[Les lettres et la machine : Un état de l’art en traductio
 Hansen, Damien. '[Défis et pertinence de la traduction littéraire assistée par ordinateur](https://revues.univ-tlse2.fr/lamaindethot/index.php?id=982).' *La main de Thôt*, edited by Amélie Josselin-Leray and Carole Fillière, no. 9, 2021.
 
 Şahin, Mehmet and Sabri Gürses. '[English-Turkish Literary Translation Through Human-Machine Interaction](https://doi.org/10.5565/rev/tradumatica.284 ).' *Tradumàtica*, no. 19, 2021.
+
+<hr style="boder-top:solid #eff0f1;height:1px;margin-top: 2rem;margin-bottom:2rem;">
 
 ## 2020
 
