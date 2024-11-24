@@ -1,8 +1,8 @@
 ## Contact
 
-To get in touch with the network, you can contact individual <a href="members.html" class="green">members</a> or send an email via the following contact link:
+To get in touch with the network, you can contact individual <a href="members.html" target="_self">members</a> or send an email via the following contact link:
 
-<a href="mailto:ctttnetwork@gmail.com" class="green">Click here to send an email</a>
+<a href="mailto:ctttnetwork@gmail.com">Click here to send an email</a>
 
 <hr style="boder-top:solid #eff0f1;height:1px;margin-top: 2rem;margin-bottom:2rem;">
 
