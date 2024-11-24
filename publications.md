@@ -48,7 +48,7 @@ Oliver, Antoni, Antonio Toral and Ana Guerberof Arenas. '[Bilingual e-books via 
 
 ## 2021
 
-Hansen, Damien. '[Les lettres et la machine : Un état de l’art en traduction littéraire automatique](https://aclanthology.org/2021.jeptalnrecital-recital.3.pdf).' *Actes de la 28e Conférence sur le Traitement Automatique des Langues Naturelles*, edited by Pascal Denis *et al*., vol. 2, ATALA, 2021, pp. 28--45.
+Hansen, Damien. '[Les lettres et la machine : Un état de l’art en traduction littéraire automatique](https://aclanthology.org/2021.jeptalnrecital-recital.3/).' *Actes de la 28e Conférence sur le Traitement Automatique des Langues Naturelles*, edited by Pascal Denis *et al*., vol. 2, ATALA, 2021, pp. 28--45.
 
 Hansen, Damien. '[Défis et pertinence de la traduction littéraire assistée par ordinateur](https://revues.univ-tlse2.fr/lamaindethot/index.php?id=982).' *La main de Thôt*, edited by Amélie Josselin-Leray and Carole Fillière, no. 9, 2021.
 
