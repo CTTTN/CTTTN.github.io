@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 
-a.green {
+a:link, a:visited {
   color: #159957;}
 
 .main-content h6 {
