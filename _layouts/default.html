@@ -21,12 +21,12 @@
       <h1 class="project-name"><a  style="color:white;text-decoration:none" href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.github.is_user_page %}
-        <a href="index.html" class="btn" style="min-width:8em;color:rgba(255,255,255,0.7)">Home</a>
-        <a href="events.html" class="btn" style="min-width:8em;color:rgba(255,255,255,0.7)">Events</a>
-        <a href="publications.html" class="btn" style="min-width:8em;color:rgba(255,255,255,0.7)">Publications</a>
-        <a href="resources.html" class="btn" style="min-width:8em;color:rgba(255,255,255,0.7)">Resources</a>
-        <a href="members.html" class="btn" style="min-width:8em;color:rgba(255,255,255,0.7)">Members</a>
-        <a href="contact.html" class="btn" style="min-width:8em;color:rgba(255,255,255,0.7)">Contact</a>
+        <a href="index.html" target="_self" class="btn" style="min-width:8em;color:rgba(255,255,255,0.7)">Home</a>
+        <a href="events.html" target="_self" class="btn" style="min-width:8em;color:rgba(255,255,255,0.7)">Events</a>
+        <a href="publications.html" target="_self" class="btn" style="min-width:8em;color:rgba(255,255,255,0.7)">Publications</a>
+        <a href="resources.html" target="_self" class="btn" style="min-width:8em;color:rgba(255,255,255,0.7)">Resources</a>
+        <a href="members.html" target="_self" class="btn" style="min-width:8em;color:rgba(255,255,255,0.7)">Members</a>
+        <a href="contact.html" target="_self" class="btn" style="min-width:8em;color:rgba(255,255,255,0.7)">Contact</a>
       {% endif %}
     </header>
     <main id="content" class="main-content" role="main">
