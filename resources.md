@@ -1,11 +1,4 @@
-<p style="text-align-last:justify;">
-  <a href="https://ctttn.github.io/resources.html#podcasts" class="green">Podcasts</a> | 
-  <a href="https://ctttn.github.io/resources.html#issues" class="green">Special Issues</a> | 
-  <a href="https://ctttn.github.io/resources.html#press" class="green">Press Coverage</a> | 
-  <a href="https://ctttn.github.io/resources.html#opinions" class="green">Opinions</a> | 
-  <a href="https://ctttn.github.io/resources.html#initiatives" class="green">Other Initiatives</a> | 
-  <a href="https://ctttn.github.io/resources.html#tools" class="green">Tools</a>
-</p>
+<div style="text-align-last:justify;"><a href="https://ctttn.github.io/resources.html#podcasts" class="green">Podcasts</a> | <a href="https://ctttn.github.io/resources.html#issues" class="green">Special Issues</a> | <a href="https://ctttn.github.io/resources.html#press" class="green">Press Coverage</a> | <a href="https://ctttn.github.io/resources.html#opinions" class="green">Opinions</a> | <a href="https://ctttn.github.io/resources.html#initiatives" class="green">Other Initiatives</a> | <a href="https://ctttn.github.io/resources.html#tools" class="green">Tools</a></div>
 
 <hr style="boder-top:solid #eff0f1;height:1px;margin-top: 2rem;margin-bottom:2rem;">
 
@@ -75,6 +68,8 @@ Podcast hosted Clara Joubert, PhD student in translation studies, in which each 
 <hr style="boder-top:solid #eff0f1;height:1px;margin-top: 2rem;margin-bottom:2rem;">
 
 <h2 id="press">Press Coverage</h2>
+
+Le Monde, "<a href="https://www.lemonde.fr/idees/article/2024/10/20/traduction-par-ia-les-algorithmes-generatifs-produisent-non-pas-du-langage-mais-une-langue-simulee_6356421_3232.html" target="_blank" class="green">Traduction par IA&nbsp;: Les algorithmes génératifs produisent non pas du langage, mais une langue simulée</a>" (FR)
 
 Le Monde, "<a href="https://www.lemonde.fr/economie/article/2024/02/02/les-traducteurs-litteraires-victimes-de-l-intelligence-artificielle_6214361_3234.html" target="_blank" class="green">Les traducteurs littéraires victimes de l'intelligence artificielle</a>" (FR)
 
