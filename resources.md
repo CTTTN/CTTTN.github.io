@@ -69,23 +69,27 @@ Podcast hosted Clara Joubert, PhD student in translation studies, in which each 
 
 <h2 id="press">Press Coverage</h2>
 
-Le Monde, "[Traduction par IA&nbsp;: Les algorithmes génératifs produisent non pas du langage, mais une langue simulée](https://www.lemonde.fr/idees/article/2024/10/20/traduction-par-ia-les-algorithmes-generatifs-produisent-non-pas-du-langage-mais-une-langue-simulee_6356421_3232.html)" (FR)
+Le Monde, "[Traduction par IA&nbsp;: Les algorithmes génératifs produisent non pas du langage, mais une langue simulée](https://www.lemonde.fr/idees/article/2024/10/20/traduction-par-ia-les-algorithmes-generatifs-produisent-non-pas-du-langage-mais-une-langue-simulee_6356421_3232.html)", 20/10/24 (FR)
 
-Le Monde, "[Les traducteurs littéraires victimes de l'intelligence artificielle](https://www.lemonde.fr/economie/article/2024/02/02/les-traducteurs-litteraires-victimes-de-l-intelligence-artificielle_6214361_3234.html)" (FR)
+Le Monde, "[Les traducteurs littéraires victimes de l'intelligence artificielle](https://www.lemonde.fr/economie/article/2024/02/02/les-traducteurs-litteraires-victimes-de-l-intelligence-artificielle_6214361_3234.html)", 02/02/24 (FR)
+
+All News Press, "[Die letzte Grenze der maschinellen Übersetzung](https://www.theatlantic.com/technology/archive/2024/01/literary-translation-artificial-intelligence/677038/)", 08/01/24 (EN)
+
+The Atlantic, "[The Last Frontier of Machine Translation](https://allnewspress.com/deutsch/die-letzte-grenze-der-maschinellen-ubersetzung/)", 08/01/24 (DE)
 
 <hr style="boder-top:solid #eff0f1;height:1px;margin-top: 2rem;margin-bottom:2rem;">
 
 <h2 id="opinions">Opinions</h2>
 
-CEATL *et al*., "[Joint Statement on Generative Artificial Intelligence and the EU AI Act](https://europeanwriterscouncil.eu/240425_cwos_jointstatement_ai-act/)" (EN)
+En chair et en os, "[Littérature, cinéma, presse, jeux vidéo&nbsp;: non à des traductions sans âme](https://enchairetenos.org/)", 30/04/24 (FR, AR, DE, EL, EN, ES, EU, HE, IT, PL, PT, RO, RU, SL, SR, SV, TR)
 
-A&#42;dS, IGÜ &amp; VdÜ, "[Offener Brief der deutschsprachigen Übersetzer&#42;innenverbände zur KI-Verordnung](https://literaturuebersetzer.de/aktuelles/offener-brief-ki/)" (DE)
+CEATL *et al*., "[Joint Statement on Generative Artificial Intelligence and the EU AI Act](https://europeanwriterscouncil.eu/240425_cwos_jointstatement_ai-act/)", 25/04/24 (EN)
 
-En chair et en os, "[Littérature, cinéma, presse, jeux vidéo&nbsp;: non à des traductions sans âme](https://enchairetenos.org/)" (FR, AR, DE, EL, EN, ES, EU, HE, IT, PL, PT, RO, RU, SL, SR, SV, TR)
+A&#42;dS, IGÜ &amp; VdÜ, "[Offener Brief der deutschsprachigen Übersetzer&#42;innenverbände zur KI-Verordnung](https://literaturuebersetzer.de/aktuelles/offener-brief-ki/)", 26/02/24 (DE)
 
-ATLAS &amp; ATLF, "[IA et traduction littéraire&nbsp;: les traductrices et traducteurs exigent la transparence](https://www.atlas-citl.org/tribune-ia/)" (FR, EN, ES, IT, TR, CS, PT)
+ATLAS &amp; ATLF, "[IA et traduction littéraire&nbsp;: les traductrices et traducteurs exigent la transparence](https://www.atlas-citl.org/tribune-ia/)", 16/03/23 (FR, EN, ES, IT, TR, CS, PT)
 
-AVTE, "[Machine Translation Manifesto](https://avteurope.eu/2021/09/13/press-release-avte-manifesto-on-machine-translation/)" (EN)
+AVTE, "[Machine Translation Manifesto](https://avteurope.eu/2021/09/13/press-release-avte-manifesto-on-machine-translation/)", 13/09/21 (EN)
 
 <hr style="boder-top:solid #eff0f1;height:1px;margin-top: 2rem;margin-bottom:2rem;">
 
