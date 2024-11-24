@@ -73,9 +73,9 @@ Le Monde, "[Traduction par IA&nbsp;: Les algorithmes génératifs produisent non
 
 Le Monde, "[Les traducteurs littéraires victimes de l'intelligence artificielle](https://www.lemonde.fr/economie/article/2024/02/02/les-traducteurs-litteraires-victimes-de-l-intelligence-artificielle_6214361_3234.html)", 02/02/24 (FR)
 
-All News Press, "[Die letzte Grenze der maschinellen Übersetzung](https://www.theatlantic.com/technology/archive/2024/01/literary-translation-artificial-intelligence/677038/)", 08/01/24 (EN)
+The Atlantic, "[The Last Frontier of Machine Translation](https://www.theatlantic.com/technology/archive/2024/01/literary-translation-artificial-intelligence/677038/)", 08/01/24 (EN)
 
-The Atlantic, "[The Last Frontier of Machine Translation](https://allnewspress.com/deutsch/die-letzte-grenze-der-maschinellen-ubersetzung/)", 08/01/24 (DE)
+All News Press, "[Die letzte Grenze der maschinellen Übersetzung](https://allnewspress.com/deutsch/die-letzte-grenze-der-maschinellen-ubersetzung/)", 08/01/24 (DE)
 
 <hr style="boder-top:solid #eff0f1;height:1px;margin-top: 2rem;margin-bottom:2rem;">
 
