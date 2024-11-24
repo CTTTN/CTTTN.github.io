@@ -1,4 +1,11 @@
-<a href="https://ctttn.github.io/resources.html#podcasts" class="green">Podcasts</a> | <a href="https://ctttn.github.io/resources.html#issues" class="green">Special Issues</a> | <a href="https://ctttn.github.io/resources.html#press" class="green">Press Coverage</a> | <a href="https://ctttn.github.io/resources.html#opinions" class="green">Opinions</a> | <a href="https://ctttn.github.io/resources.html#initiatives" class="green">Other Initiatives</a> | <a href="https://ctttn.github.io/resources.html#tools" class="green">Tools</a>
+<p style="text-align-last:justify;">
+  <a href="https://ctttn.github.io/resources.html#podcasts" class="green">Podcasts</a> | 
+  <a href="https://ctttn.github.io/resources.html#issues" class="green">Special Issues</a> | 
+  <a href="https://ctttn.github.io/resources.html#press" class="green">Press Coverage</a> | 
+  <a href="https://ctttn.github.io/resources.html#opinions" class="green">Opinions</a> | 
+  <a href="https://ctttn.github.io/resources.html#initiatives" class="green">Other Initiatives</a> | 
+  <a href="https://ctttn.github.io/resources.html#tools" class="green">Tools</a>
+</p>
 
 <hr style="boder-top:solid #eff0f1;height:1px;margin-top: 2rem;margin-bottom:2rem;">
 
@@ -96,3 +103,9 @@ AVTE, "<a href="https://avteurope.eu/2021/09/13/press-release-avte-manifesto-on-
 <hr style="boder-top:solid #eff0f1;height:1px;margin-top: 2rem;margin-bottom:2rem;">
 
 <h2 id="tools">Tools</h2>
+
+Oliver, Antoni and Sergi Alvarez-Vidal. '[LitPC: A set of tools for building parallel corpora from literary works](https://aclanthology.org/2024.ctt-1.3/).' *Proceedings of the First Workshop on Creative-text Translation and Technology*, edited by Bram Vanroy *et al*., EAMT, 2024, pp. 21--31. ([Link to GitHub repository](https://github.com/aoliverg/litpc))
+
+Bikić-Carić, Gorana, Bojana Mikelenić and Metka Bezlaj. '[Construcción del RomCro, un corpus paralelo multilingüe](http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6482).' *Procesamiento del Lenguaje Natural*, vol. 70, SEPLN, 2023, pp. 99--110. ([Link to ELRC repository](https://elrc-share.eu/repository/browse/romance-croatian-parallel-corpus/a252399e71be11ed9c1a00155d026706a8dce436b50d49adaffabdaee111e500/))
+
+Oliver, Antoni and Bojana Mikelenić. '[ReSiPC: a Tool for Complex Searches in Parallel Corpora](https://aclanthology.org/2020.lrec-1.869/).' *Proceedings of the 12th Language Resources and Evaluation Conference*, edited by Nicoletta Calzolari *et al*, LREC, 2020, pp. 11--16. ([Link to GitHub repository](https://github.com/aoliverg/ReSiPC))
