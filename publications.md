@@ -68,6 +68,9 @@ Guerberof Arenas, Ana and Antonio Toral. '[The impact of post-editing and machin
 
 Webster, Rebecca, Margot Fonteyne, Arda Tezcan, Lieve Macken and Joke Daems. '[Gutenberg Goes Neural: Comparing Features of Dutch Human Translations with Raw Neural Machine Translation Outputs in a Corpus of English Literary Classics](https://doi.org/10.3390/informatics7030032).' *Informatics*, vol. 7, no. 3, 2020, pp. 1--21.
 
+
+<hr style="boder-top:solid #eff0f1;height:1px;margin-top: 2rem;margin-bottom:2rem;">
+
 # 2019
 
 Tezcan, Arda, Joke Daems and Lieve Macken. '[When a "Sport" Is a Person and Other Issues for NMT of Novels](https://aclanthology.org/W19-7306/).' *Proceedings of the Qualities of Literary Machine Translation*, edited by James Hadley *et al*., EAMT, 2019, pp. 40--49.
