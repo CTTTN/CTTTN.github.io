@@ -24,7 +24,7 @@ Podcast hosted Clara Joubert, PhD student in translation studies, in which each 
   <div class="issue-container">
     <a href="https://doi.org/10.4000/12spg">
       <img src="assets/img/palimpsestes_38_2024.jpg" alt="Palimpsestes no. 38" class="issue">
-      <div class="issue-middle"><div class="issue-text">🇫🇷</div></div>
+      <div class="issue-middle"><div class="issue-text">🇫🇷 🇬🇧</div></div>
     </a>
   </div>
   <div class="issue-container">
