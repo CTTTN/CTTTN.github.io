@@ -4,6 +4,8 @@ Daems, Joke, Paola Ruffo and Lieve Macken. '[Impact of translation workflows wit
 
 Guerberof Arenas, Ana and Antonio Toral. '[To be or not to be: A translation reception study of a literary text translated into Dutch and Catalan using machine translation](https://doi.org/10.1075/target.22134.gue).' *Target*, vol. 36, no. 2, 2024, pp. 215--244.
 
+Dallı, Harun, Olgun Dursun, Tunga Güngör, Sabri Gürses, Ena Hodzik, Mehmet Şahin and Zeynep Yirmibeşoğlu. '[Giving a translator’s touch to the machine: Reproducing translator style in literary machine translation](https://doi.org/10.4000/12sp6).' *Palimpsestes*, no. 38, 2024, pp. 15--36.
+
 Guerberof Arenas, Ana, Joss Moorkens and David Orrego-Carmona. '[A Spanish version of EastEnders: a reception study of a telenovela subtitled using MT](https://doi.org/10.26034/cm.jostrans.2024.4724).' *JoSTrans*, no. 41, 2024, pp. 230--254.
 
 Guerberof Arenas, Susana Valdez and Aletta G. Dorst. '[Does training in post-editing affect creativity?](https://doi.org/10.26034/cm.jostrans.2024.4712)' *JoSTrans*, no. 41, 2024, pp. 74--97.
@@ -13,6 +15,8 @@ Gürses, Sabri, Mehmet Şahin, Ena Hodzik, Tunga Güngör, Harun Dallı and Olgu
 Hansen, Damien. *[Évaluation experte d’un prototype d’aide à la traduction créative : La traduction littéraire automatique individualisée au regard de ses enjeux traductologiques, éthiques et sociétaux](https://hdl.handle.net/2268/312631)*. Doctoral thesis, Université de Liège, 2024.
 
 Hansen, Damien. '[The Figure of the Literary Translator amidst New Technologies](https://doi.org/10.5040/9781350212978.0012).' *Translation, Interpreting and Technological Change: Innovations in Research, Practice and Training*, edited by Marion Winters *et al*., Bloomsbury Academic, 2024, pp. 80--108.
+
+Hansen, Damien. '[Traduction automatique neuronale et textes littéraires&nbsp;: bibliographie raisonnée](https://doi.org/10.4000/12sp6).' *Palimpsestes*, no. 38, 2024, pp. 186--190.
 
 Macken, Lieve. '[Machine Translation Meets Large Language Models: Evaluating ChatGPT's Ability to Automatically Post-Edit Literary Texts](https://aclanthology.org/2024.ctt-1.7/).' *Proceedings of the First Workshop on Creative-text Translation and Technology*, edited by Bram Vanroy *et al*., EAMT, 2024, pp. 65--81.
 
