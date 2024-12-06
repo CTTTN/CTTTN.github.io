@@ -16,7 +16,7 @@ Hansen, Damien. *[Évaluation experte d’un prototype d’aide à la traduction
 
 Hansen, Damien. '[The Figure of the Literary Translator amidst New Technologies](https://doi.org/10.5040/9781350212978.0012).' *Translation, Interpreting and Technological Change: Innovations in Research, Practice and Training*, edited by Marion Winters *et al*., Bloomsbury Academic, 2024, pp. 80--108.
 
-Hansen, Damien. '[Traduction automatique neuronale et textes littéraires&nbsp;: bibliographie raisonnée](https://doi.org/10.4000/12sp6).' *Palimpsestes*, no. 38, 2024, pp. 186--190.
+Hansen, Damien. '[Traduction automatique neuronale et textes littéraires&nbsp;: bibliographie raisonnée](https://doi.org/10.4000/12spf).' *Palimpsestes*, no. 38, 2024, pp. 186--190.
 
 Macken, Lieve. '[Machine Translation Meets Large Language Models: Evaluating ChatGPT's Ability to Automatically Post-Edit Literary Texts](https://aclanthology.org/2024.ctt-1.7/).' *Proceedings of the First Workshop on Creative-text Translation and Technology*, edited by Bram Vanroy *et al*., EAMT, 2024, pp. 65--81.
 
