@@ -60,7 +60,7 @@ Oliver, Antoni, Antonio Toral and Ana Guerberof Arenas. '[Bilingual e-books via 
 
 Ruffo, Paola. '[Collecting Literary Translators’ Narratives: Towards a New Paradigm for Technological Innovation in Literary Translation](https://doi.org/10.4324/9781003094159-2).' *Using Technologies for Creative-Text Translation*, edited by James Luke Hadley *et al*., Routledge, 2022, pp. 18--39.
 
-Ruffo, Paola. *[In-between Role and Technology: Literary Translators on Navigating the New Socio-Technological Paradigm](https://hdl.handle.net/10399/4750)*. Doctoral thesis, Heriot-Watt University, 2024.
+Ruffo, Paola. *[In-between Role and Technology: Literary Translators on Navigating the New Socio-Technological Paradigm](https://hdl.handle.net/10399/4750)*. Doctoral thesis, Heriot-Watt University, 2022.
 
 <hr style="boder-top:solid #eff0f1;height:1px;margin-top: 2rem;margin-bottom:2rem;">
 
