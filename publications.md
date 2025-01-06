@@ -12,7 +12,7 @@ Guerberof Arenas, Susana Valdez and Aletta G. Dorst. '[Does training in post-edi
 
 Gürses, Sabri, Mehmet Şahin, Ena Hodzik, Tunga Güngör, Harun Dallı and Olgun Dursun. '[Çeviribilim Çalışmalarında Çevirmenin Üslubu ve Makinenin Üslubu](https://doi.org/10.37599/ceviri.1468718).' *Çeviribilim ve Uygulamaları Dergisi*, no. 36, 2024, pp. 100--124.
 
-Hansen, Damien. *[Évaluation experte d’un prototype d’aide à la traduction créative : La traduction littéraire automatique individualisée au regard de ses enjeux traductologiques, éthiques et sociétaux](https://hdl.handle.net/2268/312631)*. Doctoral thesis, Université de Liège, 2024.
+Hansen, Damien. *[Évaluation experte d’un prototype d’aide à la traduction créative : La traduction littéraire automatique individualisée au regard de ses enjeux traductologiques, éthiques et sociétaux](https://hdl.handle.net/2268/312631)*. Doctoral thesis, Université de Liège -- Université Grenoble Alpes, 2024.
 
 Hansen, Damien. '[The Figure of the Literary Translator amidst New Technologies](https://doi.org/10.5040/9781350212978.0012).' *Translation, Interpreting and Technological Change: Innovations in Research, Practice and Training*, edited by Marion Winters *et al*., Bloomsbury Academic, 2024, pp. 80--108.
 
@@ -26,6 +26,10 @@ Oliver, Antoni and Sergi Alvarez-Vidal. '[LitPC: A set of tools for building par
 
 Puppel, Melissa and Claudine Borg. '[Evaluating ChatGPT's Performance in Creative Text Translation: A case-study from English into German](https://doi.org/10.22034/mic.2024.480506.1023).' *Media and Intercultural Communication: A Multidisciplinary Journal*, vol. 3, no. 1, 2024, pp. 1--27.
 
+Ruffo, Paola. '[Literary translators in-between: an exploration of their self-imaging discourse and relationship to technology](https://doi.org/10.1075/tris.23015.ruf).' *Translation in Society*, vol. 3, no. 1, 2024, pp. 87--103.
+
+Ruffo, Paola. '[Literary Translators and Technology: SCOT as a Proactive and Flexible Approach](https://doi.org/10.1080/0907676X.2023.2296797).' *Perspectives*, vol. 32, no. 3, 2024, pp. 407--421.
+
 <hr style="boder-top:solid #eff0f1;height:1px;margin-top: 2rem;margin-bottom:2rem;">
 
 ## 2023
@@ -35,6 +39,8 @@ Guerberof Arenas, Ana and Dimitris Asimakoulas. '[Creative skills development: t
 Hansen, Damien and Emmanuelle Esperança-Rodier. '[Human-Adapted MT for Literary Texts: Reality or Fantasy?](http://acl-anthology.online/nettt-2022/)' *Proceedings of the New Trends in Translation and Technology Conference*, edited by Sheila Castilho *et al*., Incoma Ltd, 2023, pp. 178--190.
 
 Lopez, Fabien, González Gabriela, Damien Hansen, Mariam Nakhle, Behnoosh Namdarzadeh, Nicolas Ballier, Marco Dinarelli, Emmanuelle Esperança-Rodier, Sui He, Sadaf Mohseni, Caroline Rossi, Didier Schwab, Jun Yang, Jean-Baptiste Yunès and Lichao Zhu. '[The MAKE-NMTVIZ System Description for the WMT23 Literary Task](https://orbi.uliege.be/bitstream/2268/324798/1/2023.wmt-1.30.pdf).' *Proceedings of the Eighth Conference on Machine Translation*, edited by Philipp Koehn *et al*., ACL, 2023, pp. 287--295.
+
+Oliver, Antoni. '[Author-Tailored Neural Machine Translation Systems for Literary Works](https://doi.org/10.4324/9781003357391).' *Computer-Assisted Literary Translation*, edited by Andrew Rothwell *et al*., Routledge, 2022, pp. 126--141.
 
 <hr style="boder-top:solid #eff0f1;height:1px;margin-top: 2rem;margin-bottom:2rem;">
 
@@ -46,11 +52,15 @@ Guerberof Arenas, Ana and Antonio Toral. '[Creativity in translation: Machine tr
 
 Hansen, Damien and Pierre-Yves Houlmont. '[A Snapshot into the Possibility of Video Game Machine Translation](https://aclanthology.org/2022.amta-upg.18).' *Proceedings of the 15th Biennial Conference of the Association for Machine Translation in the Americas*, edited by Janice Campbell *et al*., vol. 2, AMTA, 2022, pp. 257--269.
 
-Hansen, Damien, Emmanuelle Esperança-Rodier, Hervé Blanchon and Valérie Bada. '[La traduction littéraire automatique : Adapter la machine à la traduction humaine individualisée](https://doi.org/10.46298/jdmdh.9114).' *Journal of Data Mining & Digital Humanities*, edited by Anne Baillot et al., special issue: *Vers une robotique du traduire?*, 2022, pp. 1--19.
+Hansen, Damien, Emmanuelle Esperança-Rodier, Hervé Blanchon and Valérie Bada. '[La traduction littéraire automatique : Adapter la machine à la traduction humaine individualisée](https://doi.org/10.46298/jdmdh.9114).' *Journal of Data Mining & Digital Humanities*, edited by Anne Baillot *et al*., special issue: *Vers une robotique du traduire?*, 2022, pp. 1--19.
 
 Macken, Lieve, Bram Vanroy, Luca Desmet and Arda Tezcan. '[Literary Translation as a Three-Stage Process: Machine Translation, Post-Editing and Revision](https://aclanthology.org/2022.eamt-1.13).' *Proceedings of the 23rd Annual Conference of the European Association for Machine Translation*, edited by Helena Moniz *et al*., EAMT, 2022, pp. 101--110.
 
 Oliver, Antoni, Antonio Toral and Ana Guerberof Arenas. '[Bilingual e-books via neural machine translation and their reception](https://doi.org/10.4324/9781003094159-5).' *Using Technologies for Creative-Text Translation*, edited by James Luke Hadley *et al*., Routledge, 2022, pp. 89--115.
+
+Ruffo, Paola. '[Collecting Literary Translators’ Narratives: Towards a New Paradigm for Technological Innovation in Literary Translation](https://doi.org/10.4324/9781003094159-2).' *Using Technologies for Creative-Text Translation*, edited by James Luke Hadley *et al*., Routledge, 2022, pp. 18--39.
+
+Ruffo, Paola. *[In-between Role and Technology: Literary Translators on Navigating the New Socio-Technological Paradigm](https://hdl.handle.net/10399/4750)*. Doctoral thesis, Heriot-Watt University, 2024.
 
 <hr style="boder-top:solid #eff0f1;height:1px;margin-top: 2rem;margin-bottom:2rem;">
 
@@ -70,6 +80,8 @@ Fonteyne, Margot, Arda Tezcan and Lieve Macken. '[Literary Machine Translation u
 
 Guerberof Arenas, Ana and Antonio Toral. '[The impact of post-editing and machine translation on creativity and reading experience](https://doi.org/10.1075/ts.20035.gue).' *Translation Spaces*, vol. 9, no. 2, 2022, pp. 255--282.
 
+Toral, Antonio, Antoni Oliver and Pau Ribas-Bellestín. '[Machine Translation of Novels in the Age of Transformer](https://www.bdue-fachverlag.de/detail_book/147).' *Maschinelle Übersetzung für Übersetzungsprofis*, edited by Jörg Porsiel, BDÜ Fachverlag, 2020, pp. 276--295.
+
 Webster, Rebecca, Margot Fonteyne, Arda Tezcan, Lieve Macken and Joke Daems. '[Gutenberg Goes Neural: Comparing Features of Dutch Human Translations with Raw Neural Machine Translation Outputs in a Corpus of English Literary Classics](https://doi.org/10.3390/informatics7030032).' *Informatics*, vol. 7, no. 3, 2020, pp. 1--21.
 
 
@@ -77,4 +89,10 @@ Webster, Rebecca, Margot Fonteyne, Arda Tezcan, Lieve Macken and Joke Daems. '[G
 
 # 2019
 
+Şahin, Mehmet and Sabri Gürses. '[Would MT Kill Creativity in Literary Retranslation?](https://aclanthology.org/W19-7304/).' *Proceedings of the Qualities of Literary Machine Translation*, edited by James Hadley *et al*., EAMT, 2019, pp. 26--34.
+
 Tezcan, Arda, Joke Daems and Lieve Macken. '[When a "Sport" Is a Person and Other Issues for NMT of Novels](https://aclanthology.org/W19-7306/).' *Proceedings of the Qualities of Literary Machine Translation*, edited by James Hadley *et al*., EAMT, 2019, pp. 40--49.
+
+# 2018
+
+Ruffo, Paola. '[Human-Computer Interaction in Translation: Literary Translators on Technology and Their Roles](https://www.asling.org/tc40/wp-content/uploads/TC40-Proceedings.pdf#page.127).' *Proceedings of the 40th Conference Translating and the Computer*, edited by David Chambers *et al*., AsLing, 2018, pp. 127--131.
