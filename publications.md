@@ -93,6 +93,8 @@ Webster, Rebecca, Margot Fonteyne, Arda Tezcan, Lieve Macken and Joke Daems. '[G
 
 Tezcan, Arda, Joke Daems and Lieve Macken. '[When a "Sport" Is a Person and Other Issues for NMT of Novels](https://aclanthology.org/W19-7306/).' *Proceedings of the Qualities of Literary Machine Translation*, edited by James Hadley *et al*., EAMT, 2019, pp. 40--49.
 
+<hr style="boder-top:solid #eff0f1;height:1px;margin-top: 2rem;margin-bottom:2rem;">
+
 # 2018
 
 Ruffo, Paola. '[Human-Computer Interaction in Translation: Literary Translators on Technology and Their Roles](https://www.asling.org/tc40/wp-content/uploads/TC40-Proceedings.pdf#page.127).' *Proceedings of the 40th Conference Translating and the Computer*, edited by David Chambers *et al*., AsLing, 2018, pp. 127--131.
